@@ -33,8 +33,8 @@ mobile/ios/DerivedData/
 mobile/ios/build/
 mobile/ios/*.xcuserstate
 mobile/ios/.swiftpm/xcode/package.xcworkspace/xcuserdata/
-mobile/ios/Mesh.xcodeproj/xcuserdata/
-mobile/ios/Mesh.xcodeproj/project.xcworkspace/xcuserdata/
+mobile/ios/Julia.xcodeproj/xcuserdata/
+mobile/ios/Julia.xcodeproj/project.xcworkspace/xcuserdata/
 
 # Worker
 worker/**/node_modules/
