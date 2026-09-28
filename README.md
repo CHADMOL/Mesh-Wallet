@@ -1,15 +1,15 @@
-# Mesh Wallet
+# Julia Wallet
 
 **Send USDT on TRON without holding TRX.**
 
-Mesh is a self-custody wallet for TRC-20 USDT — native apps for iOS and Android, plus a Chrome extension. One recovery phrase, multiple accounts, signing on-device.
+Julia is a self-custody wallet for TRC-20 USDT — native apps for iOS and Android, plus a Chrome extension. One recovery phrase, multiple accounts, signing on-device.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meshwallet/Mesh-Wallet/main/public/banner.png" alt="Mesh Wallet" width="100%" />
+  <img src="https://raw.githubusercontent.com/juliawallet/Julia-Wallet/main/public/banner.png" alt="Julia Wallet" width="100%" />
 </p>
 
 <div align="center">
-  <a href="https://apps.apple.com/us/app/mesh-usdt-wallet/id6773052229"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="44"></a>&#8195;&#8195;<a href="https://chromewebstore.google.com/detail/mesh-usdt-wallet/dahjpanhlinmadhfkamhmlcegppdcpcf"><img src="https://raw.githubusercontent.com/meshwallet/Mesh-Wallet/main/public/chrome-web-store.png" alt="Available in the Chrome Web Store" height="44"></a>
+  <a href="https://apps.apple.com/us/app/julia-usdt-wallet/id6773052229"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="44"></a>&#8195;&#8195;<a href="https://chromewebstore.google.com/detail/mesh-usdt-wallet/dahjpanhlinmadhfkamhmlcegppdcpcf"><img src="https://raw.githubusercontent.com/meshwallet/Mesh-Wallet/main/public/chrome-web-store.png" alt="Available in the Chrome Web Store" height="44"></a>
 </div>
 
 ---
